@@ -18,45 +18,33 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="go" value="8" />
+          <entry key="go" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Go" value="8" />
+          <entry key="Go" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="1321" />
+          <entry key="go" value="1326" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="1321" />
+          <entry key="Go" value="1326" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../GomockExample/src/models/model.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../GomockExample/src/services/service_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="71" column="14" lean-forward="true" selection-start-line="71" selection-start-column="14" selection-end-line="71" selection-end-column="14" />
-              <folding>
-                <element signature="e#18#72#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -64,8 +52,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../GomockExample/src/mocks/mock_UserPersistence.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="12" column="61" lean-forward="true" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+            <state relative-caret-position="135">
+              <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../GomockExample/src/services/service_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="73" column="2" selection-start-line="73" selection-end-line="74" />
+              <folding>
+                <element signature="e#18#72#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,6 +117,8 @@
         <option value="$PROJECT_DIR$/src/models/postgresPersistence.go" />
         <option value="$PROJECT_DIR$/src/models/model.go" />
         <option value="$PROJECT_DIR$/../GomockExample/src/services/service_test.go" />
+        <option value="$PROJECT_DIR$/../GomockExample/src/models/src/mocks/mock_UserPersistence.go" />
+        <option value="$PROJECT_DIR$/../GomockExample/src/models/model.go" />
       </list>
     </option>
   </component>
@@ -299,13 +301,13 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2498618" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2498618" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Graph Database Console" weight="0.32985386" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.2546973" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.2546973" />
       <window_info anchor="bottom" id="Statistic" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -350,10 +352,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../GomockExample/src/models/src/mocks/mock_UserPersistence.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/../GomockExample/src/mocks/mock_UserPersistence.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="61" lean-forward="true" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        <state relative-caret-position="135">
+          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../GomockExample/src/services/service_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="73" column="2" selection-start-line="73" selection-end-line="74" />
+          <folding>
+            <element signature="e#18#72#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -369,18 +384,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../GomockExample/src/models/model.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../GomockExample/src/services/service_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="71" column="14" lean-forward="true" selection-start-line="71" selection-start-column="14" selection-end-line="71" selection-end-column="14" />
-          <folding>
-            <element signature="e#18#72#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
