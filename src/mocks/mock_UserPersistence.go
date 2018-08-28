@@ -5,7 +5,7 @@
 package mocks
 
 import (
-	models "GomockExample/src/models"
+	models "github.com/metalscreame/GomockExample/src/models"
 	gomock "github.com/golang/mock/gomock"
 	reflect "reflect"
 )

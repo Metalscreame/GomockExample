@@ -3,8 +3,8 @@ package services
 import (
 	"testing"
 	"github.com/golang/mock/gomock"
-	"GomockExample/src/models"
-	"GomockExample/src/mocks"
+	"github.com/metalscreame/GomockExample/src/models"
+	"github.com/metalscreame/GomockExample/src/mocks"
 	"errors"
 )
 

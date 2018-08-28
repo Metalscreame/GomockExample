@@ -1,7 +1,7 @@
 package services
 
 import (
-	"GomockExample/src/models"
+	"github.com/metalscreame/GomockExample/src/models"
 	"fmt"
 )
 
