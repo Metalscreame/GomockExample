@@ -41,7 +41,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../GomockExample/src/models/model.go">
+        <entry file="file://$PROJECT_DIR$/src/models/model.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
@@ -50,7 +50,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../GomockExample/src/mocks/mock_UserPersistence.go">
+        <entry file="file://$PROJECT_DIR$/src/mocks/mock_UserPersistence.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
@@ -59,7 +59,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../GomockExample/src/services/service_test.go">
+        <entry file="file://$PROJECT_DIR$/src/services/service_test.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="527">
               <caret line="73" column="2" selection-start-line="73" selection-end-line="74" />
@@ -71,7 +71,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../GomockExample/src/services/service.go">
+        <entry file="file://$PROJECT_DIR$/src/services/service.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
               <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
@@ -83,7 +83,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../GomockExample/src/models/postgresPersistence.go">
+        <entry file="file://$PROJECT_DIR$/src/models/postgresPersistence.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
@@ -116,9 +116,9 @@
         <option value="$PROJECT_DIR$/src/services/service.go" />
         <option value="$PROJECT_DIR$/src/models/postgresPersistence.go" />
         <option value="$PROJECT_DIR$/src/models/model.go" />
-        <option value="$PROJECT_DIR$/../GomockExample/src/services/service_test.go" />
-        <option value="$PROJECT_DIR$/../GomockExample/src/models/src/mocks/mock_UserPersistence.go" />
-        <option value="$PROJECT_DIR$/../GomockExample/src/models/model.go" />
+        <option value="$PROJECT_DIR$/src/services/service_test.go" />
+        <option value="$PROJECT_DIR$/src/models/src/mocks/mock_UserPersistence.go" />
+        <option value="$PROJECT_DIR$/src/models/model.go" />
       </list>
     </option>
   </component>
@@ -202,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.TestSaverWithError in GomockExample/src/services">
+  <component name="RunManager" selected="Go Test.service_test.go">
     <configuration name="TestSaver in GomockExaple/src/services" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="GomockExaple" />
       <working_directory value="$PROJECT_DIR$/src/services" />
@@ -217,7 +217,7 @@
     </configuration>
     <configuration name="TestSaverWithError in GomockExample/src/services" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="GomockExaple" />
-      <working_directory value="$PROJECT_DIR$/../GomockExample/src/services" />
+      <working_directory value="$PROJECT_DIR$/src/services" />
       <go_parameters value="-i" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
@@ -229,13 +229,13 @@
     </configuration>
     <configuration name="service_test.go (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="GomockExaple" />
-      <working_directory value="$PROJECT_DIR$/../GomockExample/src/services" />
+      <working_directory value="$PROJECT_DIR$/src/services" />
       <go_parameters value="-i" />
       <framework value="gotest" />
       <kind value="FILE" />
       <package value="GomockExaple" />
       <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/../GomockExample/src/services/service_test.go" />
+      <filePath value="$PROJECT_DIR$/src/services/service_test.go" />
       <method v="2" />
     </configuration>
     <configuration name="service_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -257,9 +257,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.service_test.go" />
         <item itemvalue="Go Test.TestSaverWithError in GomockExample/src/services" />
         <item itemvalue="Go Test.service_test.go (1)" />
-        <item itemvalue="Go Test.service_test.go" />
         <item itemvalue="Go Test.TestSaver in GomockExaple/src/services" />
       </list>
     </recent_temporary>
@@ -345,24 +345,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../GomockExample/src/models/postgresPersistence.go">
+    <entry file="file://$PROJECT_DIR$/src/models/postgresPersistence.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../GomockExample/src/models/src/mocks/mock_UserPersistence.go">
+    <entry file="file://$PROJECT_DIR$/src/models/src/mocks/mock_UserPersistence.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../GomockExample/src/mocks/mock_UserPersistence.go">
+    <entry file="file://$PROJECT_DIR$/src/mocks/mock_UserPersistence.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../GomockExample/src/services/service_test.go">
+    <entry file="file://$PROJECT_DIR$/src/services/service_test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="73" column="2" selection-start-line="73" selection-end-line="74" />
@@ -372,7 +372,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../GomockExample/src/services/service.go">
+    <entry file="file://$PROJECT_DIR$/src/services/service.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
@@ -382,7 +382,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../GomockExample/src/models/model.go">
+    <entry file="file://$PROJECT_DIR$/src/models/model.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />

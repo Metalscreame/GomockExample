@@ -7,7 +7,7 @@ How To Generate a mock:
 
 To generate UserPersistance mock:
 
-    mockgen -destination=src/mocks/mock_UserPersistence.go -package=mocks GomockExample/src/models UserPersistence
+    mockgen -destination=src/mocks/mock_UserPersistence.go -package=mocks github.com/metalscreame/GomockExample/src/models UserPersistence
 
 
 or run 
